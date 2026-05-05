@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+data/
+chest_xray/
+paultimothymooney/
+*.zip
+*.rar
+*.7z
+
+.DS_Store
